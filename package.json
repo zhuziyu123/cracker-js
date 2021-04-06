@@ -1,0 +1,26 @@
+{
+  "name": "cracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuziyu123/cracker-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuziyu123/cracker-js/issues"
+  },
+  "homepage": "https://github.com/zhuziyu123/cracker-js#readme",
+  "dependencies": {
+    "echarts": "^5.0.2",
+    "jsdom": "^16.4.0"
+  },
+  "devDependencies": {
+    "ethereumjs-vm": "^4.2.0"
+  }
+}

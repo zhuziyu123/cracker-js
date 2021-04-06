@@ -1,0 +1,22 @@
+r[S("0x78")]
+(v.k, r[S("0x79")](v.h, r[S("0x7a")]
+        [S("0x33")](r[S("0x7c")](v.g))
+        [S("0x33")](r[S("0x7d")](w.a[S("0xc3")], 2), r[S("0x7e")])
+        [S("0x33")](x.delicious, r[S("0x80")])
+        [S("0x33")](y.diffUA, r[S("0x82")])
+        [S("0x33")](r[S("0x7c")](m.c), r[S("0x84")])
+        [S("0x33")](r[S("0x7c")](g.finger), r[S("0x86")])
+        [S("0x33")](r[S("0x88")](g.getFingerStatus), r[S("0x89")])
+        [S("0x33")](r[S("0x88")](g.fingerBuff), r[S("0x8b")])
+        [S("0x33")](r[S("0x8d")](F, ""), r[S("0x8e")])
+        [S("0x33")](r[S("0x90")](_.hasLocalCache), r[S("0x91")])
+        [S("0x33")](b.resourceTag, r[S("0x93")])
+        [S("0x33")](V.al, r[S("0x95")])
+        [S("0x33")](V.af, r[S("0x97")])
+        [S("0x33")](w.a[S("0xc3")], r[S("0x99")])
+        [S("0x33")](S("0xc4"), r[S("0x9b")])
+        [S("0x33")](navigator[S("0xc5")], r[S("0x9d")])
+        [S("0x33")](y.innerNavigator, r[S("0x9f")])
+        [S("0x33")](y.innerWebdriver, '"}')
+    ))
+                                
